@@ -3,6 +3,7 @@
 <p align="center">My name is <a href="www.smaga.dev">Wiktor </a>and I'm 19 years old IT student. I'm interested in web applications development and want to become full-stack developer in the future.  </p>
 
 **You can reach me:**
+
 <img height="20" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg"/> [wiktor@smaga.dev](mailto:wiktor@smaga.dev)
 
 <img height="20" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> [LinkedIn](https://www.linkedin.com/in/wiktor-smaga-258829213/)
