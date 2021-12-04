@@ -14,4 +14,5 @@
 
 ## 📊 Stats 📊
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenszel&theme=gotham&layout=compact"/>
+  
 <img src="https://github-readme-stats.vercel.app/api?username=Wenszel&theme=gotham"/>
