@@ -1,6 +1,6 @@
 ### Hi there 
 
-<p align="center">My name is <a href="www.smaga.dev">Wiktor </a>and I'm 19 years old IT student. I'm interested in web applications development and want to become full-stack developer in the future.  </p>
+<p align="center">My name is <b> Wiktor </b> and I'm 20 years old Computer Science student. I'm interested in web applications development and want to become full-stack developer in the future.  </p>
 
 **You can reach me:**
 
