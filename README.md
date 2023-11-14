@@ -9,7 +9,7 @@
   <a href="https://stackoverflow.com/users/10817673/wenszel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
-  <a href="wiktor.smaga13@gmail.com" target="_blank">
+  <a href="mailto:wiktor.smaga13@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is Wiktor. I'm currently pursuing a degree in Computer Science at AGH University. I aspire to work as a software engineer in the future.</p>
+<p align="left">My name is Wiktor. I'm currently pursuing a degree in Computer Science at AGH University. Fascinated by the software development process, I aspire to become a software engineer in the future.</p>
 
 ###
 
@@ -46,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
