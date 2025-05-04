@@ -1,18 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">Computer Science student based in Cracow</h3>
+<h3 align="center">Computer Science Student @ AGH</h3>
 
-- 🌱 I’m currently learning **Elixir** and exploring the **Phoenix** Framework 
+- 🌱 I’m currently doing some ML:
+  
+[![agh-machine-learning](https://github-readme-stats.vercel.app/api/pin/?username=wenszel&repo=agh-machine-learning)](https://github.com/wenszel/agh-machine-learning)
 
-- 💬 Feel free to reach out to me about anything related to DSA or any tools I'm currently using
+- and exploring distributed systems libraries:
 
-- 📫 Contact me by email at: wiktor.smaga13@gmail.com
+[![agh-distributed-systems](https://github-readme-stats.vercel.app/api/pin/?username=wenszel&repo=agh-distributed-systems)](https://github.com/wenszel/agh-distributed-systems)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wsmaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wsmaga" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wsmaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wsmaga" height="30" width="40" /></a>
-</p>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wsmaga/) • [Email](mailto:wiktor.smaga13@gmail.com)
+
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> 
+</p>
